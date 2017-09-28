@@ -1,10 +1,11 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.unusualdev.app" version="1.0.0">
-  <name>The Chase Test App</name>
-  <description>The Chase Test App</description>
+  <name>unusualDev Games</name>
+  <description>Onde o melhor é sempre premiado.</description>
   <author href="http://unusualdev.com" email="atendimento@unusualdev.com">Unusual Dev</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
+  <!--preference name="Orientation" value="landscape" /-->
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
   <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0"/>
