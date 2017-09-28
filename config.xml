@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.unusualdev.app" version="1.0.0">
-  <name>UnusualDev Games</name>
-  <description>Um lugar onde você é premiado quando é o melhor.</description>
+  <name>The Chase Test App</name>
+  <description>The Chase Test App</description>
   <author href="http://unusualdev.com" email="atendimento@unusualdev.com">Unusual Dev</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
